@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Entrecanales Cuenca, Oscar):                             %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                       		Notas
+====== ============================ 		================================
+(01)	Se clona repositorio
+(02)	Se modifica el documento bitacora.txt
+(03)	Commit de los cambios titulo "Paso 03"
