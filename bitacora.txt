@@ -4,8 +4,8 @@
 %% Alumno (Entrecanales Cuenca, Oscar):                             %%
 %%==================================================================%%
 
- Paso   Acción                       					Notas
-====== ============================ 					================================
+ Paso   Acción                       						Notas
+====== ============================ 						================================
 (01)	Se clona repositorio
 (02)	Se modifica el documento bitacora.txt
 (03)	Commit de los cambios titulo "Paso03"
@@ -21,3 +21,11 @@
 (13)	Se hace merge desde "master" con "RamaA" por fast-forward
 (14)	Se hace merge desde "master" con "RamaB" de manera recursiva
 (15)	Commit de los cambios titulo "Paso 15"
+(16)	Se crea "RamaC"
+(17)	Se hace checkout a "RamaC"
+(18)	Se modifica el documento direccion.txt
+(19)	Se crea "RamaD", se pushea al repositorio y se hace checkout a "RamaD"
+(20)	Se crea y modifica el documento calificacion.txt
+(21)	Commit de los cambios titulo "Paso 21"
+(22)	Se hace checkout a "RamaC"
+(23)	Commit de los cambios titulo "Paso 23"
