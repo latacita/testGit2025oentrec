@@ -3,4 +3,4 @@ Calle: Calle de facultad de ciencias
 Número: Numero de facultad de ciencias
 CP: 39012
 Ciudad: Santander
-Provincia: Santander
+Provincia: Cantabria
