@@ -29,3 +29,9 @@
 (21)	Commit de los cambios titulo "Paso 21"
 (22)	Se hace checkout a "RamaC"
 (23)	Commit de los cambios titulo "Paso 23"
+(24)	Se hace checkout a "master"
+(26)	Se hace merge desde "master" con "RamaD"
+(27)	Se hace merge desde "master" con "RamaC" de manera recursiva
+(28)	Se etiqueta el commit actual de la rama "master" como "Conseguido"
+(29)	Commit de los cambios titulo "Paso 29"
+
