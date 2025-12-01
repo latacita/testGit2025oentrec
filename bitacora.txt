@@ -8,4 +8,9 @@
 ====== ============================ 		================================
 (01)	Se clona repositorio
 (02)	Se modifica el documento bitacora.txt
-(03)	Commit de los cambios titulo "Paso 03"
+(03)	Commit de los cambios titulo "Paso03"
+(04)	Se crea "RamaA"
+(05)	Se crea "RamaB"
+(06) 	Se hace checkout a "RamaA"
+(07)	Se modifica el documento direccion.txt
+(08)	Commit de los cambios titulo "Paso 08"
